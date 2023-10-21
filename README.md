@@ -2,7 +2,7 @@
 
 ## _Order, eat, enjoy!_
 
-URL: https://fast-react-pizza.netlify.app/order/new
+URL: https://fast-react-pizza.netlify.app
 
 The project which allows user to comfortably order pizza via WEB UI.
 
